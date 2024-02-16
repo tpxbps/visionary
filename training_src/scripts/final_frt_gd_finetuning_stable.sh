@@ -74,5 +74,5 @@ flag="
 #  --bert_ckpt_file $warmup_ckpt \
 PYTHONPATH=../:$PYTHONPATH python nav_obj.py $flag  \
   --tokenizer bert \
-  --resume_file ../ckpts/best_spl_val_unseen_freezeGT_rec_cap \
+  --resume_file ../ckpts/lad_model_full.pt \
   --eval_first
