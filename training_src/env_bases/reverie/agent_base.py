@@ -168,7 +168,6 @@ class Seq2SeqAgent(BaseAgent):
         # ]
         #
         # self.vln_bert_optimizer = optimizer(optimizer_grouped_parameters, lr=self.args.lr)
-        # # self.vln_bert_optimizer = optimizer(optimizer_grouped_parameters) 错误？
         # self.critic_optimizer = optimizer(self.critic.parameters(), lr=self.args.lr)
         # self.optimizers = (self.vln_bert_optimizer, self.critic_optimizer)
         #
