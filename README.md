@@ -22,7 +22,7 @@ Replace `resumedir` in `eval.sh` and run this script to evaluate the model. Furt
 cd training_src
 sh scripts/eval.sh
 ```
-P.S. The final checkpoints of VISIONARY model can be found [here](https://drive.google.com/drive/folders/105X4u6JS6XQ8tR1FuExWp7y6BiaG3D1q).
+P.S. The final checkpoints of VISIONARY model can be found [here](https://drive.google.com/drive/folders/105X4u6JS6XQ8tR1FuExWp7y6BiaG3D1q?usp=drive_link).
 
 ## Acknowledgement
 The code is mainly based on [LAD](https://github.com/zehao-wang/LAD), [DUET](https://github.com/cshizhe/VLN-DUET), and this work is inspired by [PanoGen](https://github.com/jialuli-luka/PanoGen), [KERM](https://github.com/xiangyangli-cn/KERM). Thanks for their awesome works!
